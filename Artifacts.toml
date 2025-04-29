@@ -1,0 +1,20 @@
+[[Bazel]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f5380c7fc3d65d6d007c25a941bb26fb77c727b0"
+libc = "musl"
+os = "linux"
+
+    [[Bazel.download]]
+    sha256 = "01ac6c083551796f1f070b0dc9c46248e6c49e01e21040b0c158f6e613733345"
+    url = "https://github.com/JuliaBinaryWrappers/Bazel_jll.jl/releases/download/Bazel-v7.6.1+0/Bazel.v7.6.1.x86_64-linux-musl-cxx03.tar.gz"
+[[Bazel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c8d1bee2d0934691c9a73f4035926bddeb266cc9"
+libc = "musl"
+os = "linux"
+
+    [[Bazel.download]]
+    sha256 = "ce6e7c11aa70338a1c9425b5e9866f5a60f3f81591e88a6cd1e5543dbcde8bb4"
+    url = "https://github.com/JuliaBinaryWrappers/Bazel_jll.jl/releases/download/Bazel-v7.6.1+0/Bazel.v7.6.1.x86_64-linux-musl-cxx11.tar.gz"

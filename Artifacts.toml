@@ -1,10 +1,10 @@
 [[Bazel]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b0e5d1b19235a24a1a470bdd4591f7c099a8944f"
+git-tree-sha1 = "4d4099ff6b05fc31c8fdc14710cbe4c5a879aba6"
 libc = "musl"
 os = "linux"
 
     [[Bazel.download]]
-    sha256 = "3ec8875de9a99ffdb239b6b4cde3239f58e5fadcbc261da0173769f42420a43d"
-    url = "https://github.com/JuliaBinaryWrappers/Bazel_jll.jl/releases/download/Bazel-v7.7.0+0/Bazel.v7.7.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "fb8e3fe7e7688fb24aa57b9eb62f2087a1ff6442d31585e7c508a5e7ffd1f643"
+    url = "https://github.com/JuliaBinaryWrappers/Bazel_jll.jl/releases/download/Bazel-v8.7.0+0/Bazel.v8.7.0.x86_64-linux-musl-cxx11.tar.gz"
